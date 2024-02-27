@@ -1,1 +1,9 @@
 git init - inicia rep git
+
+git clone - faz o ownload do repositorio git remoto 
+
+git status - apresenta o status do repositorio local 
+
+git add <arquivo> - adciona o arquivo modificado ou não rastreado para o proximo commit
+
+git add . - adciona todos os arquivos modificados ou não rastreados do diretorio atual
